@@ -1,0 +1,18 @@
+{
+    "BAIDU_ASR_MODEL": {
+        "menu": [
+            ["普通话输入法模型 (80001)", "80001"],
+            ["英语模型 (1737)", "1737"],
+            ["粤语模型 (1637)", "1637"],
+            ["四川话模型 (1837)", "1837"]
+        ]
+    },
+    "AUDIO_FORMAT": {
+        "menu": [
+            ["WAV 16KHz", "audio/wav;rate=16000"],
+            ["PCM 16KHz", "audio/pcm;rate=16000"],
+            ["AMR", "audio/amr;rate=8000"],
+            ["SPEEX", "audio/speex;rate=16000"]
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+	"name": {
+		"zh-cn": "行空板K10百度识别",
+		"en": "Baidu voice to text for Unihiker K10"
+	},
+	"description": {
+		"zh-cn": "百度AI-语音技术-语音识别极速版",
+		"en": "BaiduAI-Voice Tech-Fast Voice Recognization"
+	},
+	"author": "ZHU",
+	"email": "zhujunhao@hsefz.cn",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "k10voice2text",
+	"platform": ["win", "mac", "web"],
+	"version": "0.0.1",
+	"asset": {
+		"arduinoC": {
+			"dir": "arduinoC/",
+			"version": "0.0.1",
+			"board": ["esp32s3bit"],
+			"main": "main.ts"
+		}
+	}
+}
